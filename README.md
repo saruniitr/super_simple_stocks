@@ -41,7 +41,7 @@ python3 gbce_server.py
 
 Start Client with allowed actions
 ```
-
+python3 gbce_client.py --action ACTION VARGS
 ```
 
 Server logs
