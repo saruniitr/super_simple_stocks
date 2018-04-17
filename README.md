@@ -22,10 +22,10 @@ Server on startup loads sample data and listens for transactions on port 5555. O
 2. gbce_client.py - Client that submits transactions to GBCE server
 Client connects to the port 5555 and submits action along with supplied arguments. Possible actions and usages are shown below,
 
-- GBCE_DIV_YIELD <symbol> <price>
-- GBCE_PE_RATIO <symbol> <price>
-- GBCE_RECORD_TRADE <BUY/SELL> <symbol> <quantity> <price>
-- GBCE_CALC_STOCK_PRICE <symbol>
+- GBCE_DIV_YIELD symbol price
+- GBCE_PE_RATIO symbol price
+- GBCE_RECORD_TRADE BUY/SELL symbol quantity price
+- GBCE_CALC_STOCK_PRICE symbol
 - GBCE_CALC_GBCE_INDEX
 - GBCE_EXIT
 
