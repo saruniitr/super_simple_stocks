@@ -1,0 +1,19 @@
+{
+	"sample data": [
+		{
+			"Symbol": "TEA", "Div Type": "Common", "Last Dividend": 0, "Fixed Dividend": "None", "Par Value": 100
+		},
+		{
+			"Symbol": "POP", "Div Type": "Common", "Last Dividend": 8, "Fixed Dividend": "None", "Par Value": 100
+		},
+		{
+			"Symbol": "ALE", "Div Type": "Common", "Last Dividend": 23, "Fixed Dividend": "None", "Par Value": 60
+		},
+		{
+			"Symbol": "GIN", "Div Type": "Preferred", "Last Dividend": 8, "Fixed Dividend": 2, "Par Value": 100
+		},
+		{
+			"Symbol": "JOE", "Div Type": "Common", "Last Dividend": 13, "Fixed Dividend": "None", "Par Value": 250
+		}
+	]
+}
